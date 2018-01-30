@@ -1,5 +1,7 @@
 # ignore jyputer checkpoints
 .ipynb_checkpoints/
 
-# ignore data folder
-data/
+# ignore contents of data folder
+data/gmail_data.mbox
+data/gmail_data.csv
+data/gmail_data2.csv
