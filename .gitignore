@@ -1,1 +1,5 @@
-/data/
+# ignore jyputer checkpoints
+.ipynb_checkpoints/
+
+# ignore data folder
+data/
