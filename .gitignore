@@ -4,4 +4,4 @@
 # ignore contents of data folder
 data/gmail_data.mbox
 data/gmail_data_raw.csv
-data/gmail_data.csv
+data/gmail_data_preprocessed.csv
