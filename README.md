@@ -9,3 +9,4 @@ Analysis of 13 years of Gmail messages
 - `matplotlib`
 - `seaborn`
 - `time`
+- `NLTK`
