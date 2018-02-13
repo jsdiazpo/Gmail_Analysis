@@ -3,10 +3,15 @@ Analysis of 13 years of Gmail messages
 
 ## Dependencies
 
-- `pandas`
-- `csv`
-- `unicodedata`
-- `matplotlib`
-- `seaborn`
-- `time`
-- `NLTK`
+* Already in Anaconda3
+  - `pandas`
+  - `csv`
+  - `unicodedata`
+  - `matplotlib`
+  - `seaborn`
+  - `time`
+
+* External
+  - `NLTK`
+  - `wordcloud`
+
